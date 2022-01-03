@@ -399,4 +399,12 @@
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x2b591190FF951F60CB9424664155e57A402c1AdE/logo.png"
   }
+    {
+    "name": "BCHDAO",
+    "address": "0xe5643aaf41ed9e5a56c3d5d1a049b43ac69950b2",
+    "symbol": "BCHDAO",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/bchdao/assets/master/blockchains/smartbch/assets/logo.png"
+  }
 ]
