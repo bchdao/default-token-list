@@ -400,7 +400,7 @@
     "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x2b591190FF951F60CB9424664155e57A402c1AdE/logo.png"
   }
     {
-    "name": "Bitcoin Coin Cash DAO",
+    "name": "Bitcoin Cash DAO",
     "address": "0xe5643aAF41ed9e5a56C3D5D1a049b43Ac69950b2",
     "symbol": "BCHDAO",
     "decimals": 18,
